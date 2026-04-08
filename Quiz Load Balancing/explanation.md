@@ -2,7 +2,7 @@
 Implementasi algoritma Work Stealing untuk mendapatkan Expected Optimal Time.
 
 ### Logika 
-<img src="https://latex.codecogs.com/gif.latex?T_{opt} = \frac{\sum_{i=1}^{k} \text{Task}_i}{n}" title="T_{opt} = \frac{\sum_{i=1}^{k} \text{Task}_i}{n}" />
+<img src="logika.gif" title="Logika LB" />
 
 ##### Dimana:
 * **$T_{opt}$**: Expected Optimal Time.
